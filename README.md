@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniela Nieto</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **md-link**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **frontend courses and java**
 
